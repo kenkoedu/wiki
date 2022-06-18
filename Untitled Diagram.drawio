@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T07:06:46.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="6mTa6JSa-h8D_S9CNyE1" type="github"><diagram id="QcsPBwSqGHU8GRr8WB2e">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-18T08:26:31.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="x36Y5BOr4E5qyUqM2eb4" version="20.0.1" type="github">
+  <diagram id="QcsPBwSqGHU8GRr8WB2e" name="Page-1">
+    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-5" value="Line Out&lt;br style=&quot;font-size: 20px;&quot;&gt;+&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 20px;&quot;&gt;3.5 mm&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;三圈轉兩圈&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;endArrow=none;endFill=0;exitX=0.494;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" edge="1" parent="1" source="SV3OejH1jwvsUMR7bk4B-1" target="SV3OejH1jwvsUMR7bk4B-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-1" value="iPad on Microsoft Teams" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#c0c0c0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580" width="263.33" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-9" value="Monitor" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=default;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="SV3OejH1jwvsUMR7bk4B-3" target="SV3OejH1jwvsUMR7bk4B-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-3" value="MIC Rx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="583.3299999999999" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-13" value="Mic In" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=default;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="SV3OejH1jwvsUMR7bk4B-7" target="SV3OejH1jwvsUMR7bk4B-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/mic-microphone-record-speak-128.png;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="280" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-8" value="Speaker" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-3/24/bx-speaker-128.png;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="660" y="580" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-10" value="MIC Tx A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="284" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-11" value="MIC Tx B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-15" value="Line In" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=default;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="SV3OejH1jwvsUMR7bk4B-14" target="SV3OejH1jwvsUMR7bk4B-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-14" value="MP3 File" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.audio_file;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1355.6" y="484.6" width="36.8" height="50.8" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-19" value="Wireless" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" target="SV3OejH1jwvsUMR7bk4B-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="703.3299999999999" y="410" as="sourcePoint" />
+            <mxPoint x="1020" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-21" value="Wireless" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="SV3OejH1jwvsUMR7bk4B-3" target="SV3OejH1jwvsUMR7bk4B-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="550" as="sourcePoint" />
+            <mxPoint x="1010" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-23" value="WiFi" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="426.65999999999997" y="752.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SV3OejH1jwvsUMR7bk4B-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="425.65999999999997" y="660" width="52" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
